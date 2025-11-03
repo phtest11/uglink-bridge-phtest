@@ -3,9 +3,9 @@ main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
-BASE_URL = ""
-PORT = ""
-USERNAME = ""
+BASE_URL = "111"
+PORT = "222"
+USERNAME = "333"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
